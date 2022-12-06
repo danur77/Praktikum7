@@ -59,11 +59,13 @@ Ubahlah kode di bawah ini menjadi fungsi menggunakan lambda
     print(d("Danang"))
     
 ### Program :
+![Latihan1](https://user-images.githubusercontent.com/115677839/205903640-0502ff9d-4acd-418b-b19b-870143767b65.png)
 
 
 ### Hasil Run :
 
-![hasil running latihan](https://user-images.githubusercontent.com/115867244/205793205-b0be6de8-310a-4e1a-aa28-003bc74bda56.png)
+![Run latihan1](https://user-images.githubusercontent.com/115677839/205904215-2a8f2354-448e-4e59-9b8c-54e082a42083.png)
+
 
 ## Praktikum 6
 Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan :
@@ -210,24 +212,24 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
     
 ### Program :
 
-![Screenshot (267)](https://user-images.githubusercontent.com/115867244/205797772-7f8019bc-858f-4934-aa85-6129f268f608.png)
+![Praktikum](https://user-images.githubusercontent.com/115677839/205904277-791e0600-5798-4cdb-9c64-9ef7eb259cd6.png)
+
 
 ### Hasil Run :
 - Menambah data
 
-![Tambah Data (1)](https://user-images.githubusercontent.com/115867244/205796865-8b96d701-7daf-4b30-9d96-36703743ef2e.png)
+![Runpraktikum](https://user-images.githubusercontent.com/115677839/205904333-0b40d5d8-0666-441d-8edc-0501f6aa8966.png)
 
-![Tambah Data (2)](https://user-images.githubusercontent.com/115867244/205797839-616cc7c7-0f1b-4a87-8702-f343cf9ee469.png)
+![Runpraktikum (2)](https://user-images.githubusercontent.com/115677839/205904391-c65f6636-150f-4993-9342-4cdafee247b1.png)
 
 - Menampilkan data
 
-![Melihat Data](https://user-images.githubusercontent.com/115867244/205798816-5cc1a01d-ec9c-4ebe-9d3e-2aef513271ea.png)
+![Runpraktikum (3)](https://user-images.githubusercontent.com/115677839/205904780-ca7a8869-ff3e-4897-972f-04011b338e3c.png)
 
 - Mengubah data 
 
-![Ubah Data (1)](https://user-images.githubusercontent.com/115867244/205799048-dcd4709d-6d54-407d-ba53-6a531386ad00.png)
+![RunPraktikum (4)](https://user-images.githubusercontent.com/115677839/205905669-23104857-b5f7-4554-b61b-7570add69ab8.png)
 
-![Ubah Data (2)](https://user-images.githubusercontent.com/115867244/205799058-68d71a05-42eb-4204-8ab6-e75dbf57d2ba.png)
 
 - Menghapus data 
 
